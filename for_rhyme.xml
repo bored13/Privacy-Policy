@@ -5820,19 +5820,19 @@
 	
 	
 <string-array name="Level_363">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Что моя судьбина,</item>
+        <item>Счастье иль беда?</item>
+        <item>Движется машина</item>
+        <item>Общего труда.</item>
+        <item>Винтик очень малый —</item>
+        <item>Я в машине той.</item>
+        <item>К вечеру усталый,</item>
+        <item>Я сижу босой.</item>
     </string-array>
-    <string name="author_363"></string>
+    <string name="author_363">Сологуб Ф.</string>
     <string name="name_363">***</string>
     <string name="trans_363">" "</string>
-    <string name="form_363"></string>
+    <string name="form_363">8</string>
 	
 	
 <string-array name="Level_364">
@@ -5868,19 +5868,19 @@
 	
 	
 <string-array name="Level_366">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Я вырою себе глубокий,</item>
+        <item>черный ров,</item>
+        <item>Чтоб в недра</item>
+        <item>тучные и полные улиток</item>
+        <item>Упасть, на дне стихий</item>
+        <item>найти последний кров</item>
+        <item>И кости простереть,</item>
+        <item>изнывшие от пыток.</item>
     </string-array>
-    <string name="author_366"></string>
-    <string name="name_366">***</string>
-    <string name="trans_366">" "</string>
-    <string name="form_366"></string>
+    <string name="author_366">Бодлер Ш.</string>
+    <string name="name_366">\"Веселый мертвец\"</string>
+    <string name="trans_366">"(Перевод Эллиса)"</string>
+    <string name="form_366">4</string>
 	
 	
 <string-array name="Level_367">
@@ -5900,19 +5900,19 @@
 	
 		
 <string-array name="Level_368">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Взвейтесь кострами,</item>
+        <item>синие ночи!</item>
+        <item>Мы — пионеры,</item>
+        <item>дети рабочих!</item>
+        <item>Близится эра</item>
+        <item>светлых годов,</item>
+        <item>Клич пионеров —</item>
+        <item>Всегда будь готов!</item>
     </string-array>
-    <string name="author_368"></string>
-    <string name="name_368">***</string>
+    <string name="author_368">Жаров А.</string>
+    <string name="name_368">\"Гимн пионеров\"</string>
     <string name="trans_368">" "</string>
-    <string name="form_368"></string>
+    <string name="form_368">4</string>
 	
 	
 <string-array name="Level_369">
@@ -5932,19 +5932,19 @@
 	
 	
 <string-array name="Level_370">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Чудная картина,</item>
+        <item>Как ты мне родна:</item>
+        <item>Белая равнина,</item>
+        <item>Полная луна,</item>
+        <item>Свет небес высоких,</item>
+        <item>И блестящий снег,</item>
+        <item>И саней далеких</item>
+        <item>Одинокий бег.</item>
     </string-array>
-    <string name="author_370"></string>
+    <string name="author_370">Фет А.</string>
     <string name="name_370">***</string>
     <string name="trans_370">" "</string>
-    <string name="form_370"></string>
+    <string name="form_370">8</string>
 	
 	
 <string-array name="Level_371">
@@ -5964,19 +5964,19 @@
 	
 	
 <string-array name="Level_372">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Ты слишком</item>
+        <item>для невинности мила,</item>
+        <item>И слишком ты любезна,</item>
+        <item>чтоб любить!</item>
+        <item>Полмиру дать ты</item>
+        <item>счастье бы могла,</item>
+        <item>Но счастливой</item>
+        <item>самой тебе не быть;</item>
     </string-array>
-    <string name="author_372"></string>
+    <string name="author_372">Лермонтов М.</string>
     <string name="name_372">***</string>
     <string name="trans_372">" "</string>
-    <string name="form_372"></string>
+    <string name="form_372">4</string>
 	
 	
 <string-array name="Level_373">
@@ -5997,16 +5997,16 @@
 	
 	
 <string-array name="Level_374">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Утешься, я несчастен с ней,</item>
+        <item>Как ты со мной была когда-то.</item>
+        <item>Просрочен долг, но тем ясней</item>
+        <item>И несомненнее оплата.</item>
+        <item>И я, уставши уличать,</item>
+        <item>Дежурю на подходе к дому</item>
+        <item>И отвыкаю замечать</item>
+        <item>Заметное уже любому.</item>
     </string-array>
-    <string name="author_374"></string>
+    <string name="author_374">Быков Д.</string>
     <string name="name_374">***</string>
     <string name="trans_374">" "</string>
     <string name="form_374">8</string>
@@ -6029,17 +6029,17 @@
 	
 	
 <string-array name="Level_376">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Бегу, озираюсь, в оврагах таюсь,</item>
+        <item>И даже не знаю, кого я боюсь!</item>
+        <item>Но кто-то голодный по лесу идёт,</item>
+        <item>Меня он проглотит, как только найдёт.</item>
+        <item>Я знаю, что это – всего только сон,</item>
+        <item>Но что-то никак не кончается он.</item>
+        <item>Щипаю, кусаю себя на бегу,</item>
+        <item>А только проснуться никак не могу!</item>
     </string-array>
-    <string name="author_376"></string>
-    <string name="name_376">***</string>
+    <string name="author_376">Булыгинский С.</string>
+    <string name="name_376">\"Страшный сон\"</string>
     <string name="trans_376">" "</string>
     <string name="form_376">8</string>
 	
@@ -6061,32 +6061,32 @@
 	
 	
 <string-array name="Level_378">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Женщина всегда</item>
+        <item>чуть-чуть как море,</item>
+        <item>Море в чем-то</item>
+        <item>женщина чуть-чуть</item>
+        <item>Ходят волны</item>
+        <item>где-нибудь в каморке</item>
+        <item>спрятанные</item>
+        <item>в худенькую грудь.</item>
     </string-array>
-    <string name="author_378"></string>
-    <string name="name_378">***</string>
+    <string name="author_378">Евтушенко Е.</string>
+    <string name="name_378">\"Женщина особенное море\"</string>
     <string name="trans_378">" "</string>
-    <string name="form_378">8</string>
+    <string name="form_378">4</string>
 	
 	
 <string-array name="Level_379">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Вновь Исакий в облаченье</item>
+        <item>Из литого серебра.</item>
+        <item>Стынет в грозном нетерпенье</item>
+        <item>Конь Великого Петра.</item>
+        <item>Ветер душный и суровый</item>
+        <item>С черных труб сметает гарь…</item>
+        <item>Ах! своей столицей новой</item>
+        <item>Недоволен государь.</item>
     </string-array>
-    <string name="author_379"></string>
+    <string name="author_379">Ахматова А.</string>
     <string name="name_379">***</string>
     <string name="trans_379">" "</string>
     <string name="form_379">8</string>
@@ -6142,17 +6142,17 @@
 	
 	
 <string-array name="Level_382">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Что же такое счастье?</item>
+        <item>Одни говорят:- Это страсти:</item>
+        <item>Карты, вино, увлеченья —</item>
+        <item>Все острые ощущенья.</item>
+        <item>Другие верят, что счастье —</item>
+        <item>В окладе большом и власти,</item>
+        <item>В глазах секретарш плененных</item>
+        <item>И трепете подчиненных.</item>
     </string-array>
-    <string name="author_382"></string>
-    <string name="name_382">***</string>
+    <string name="author_382">Асадов Э.</string>
+    <string name="name_382">Что такое счастье</string>
     <string name="trans_382">" "</string>
     <string name="form_382">8</string>
 	
@@ -6174,16 +6174,16 @@
 	
 	
 <string-array name="Level_384">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Я больше не ревную,</item>
+        <item>Но я тебя хочу,</item>
+        <item>И сам себя несу я,</item>
+        <item>Как жертву палачу.</item>
+        <item>Тебя не назову я</item>
+        <item>Ни радость, ни любовь.</item>
+        <item>На дикую, чужую</item>
+        <item>Мне подменили кровь.</item>
     </string-array>
-    <string name="author_384"></string>
+    <string name="author_384">Мандельштам О.</string>
     <string name="name_384">***</string>
     <string name="trans_384">" "</string>
     <string name="form_384">8</string>
@@ -6206,16 +6206,16 @@
 	
 	
 <string-array name="Level_386">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Исчезли солнечные дни,</item>
+        <item>И птицы улетели.</item>
+        <item>И вот проводим мы одни</item>
+        <item>Неделю за неделей.</item>
+        <item>Вдвоём с тобой,</item>
+        <item>Вдвоём с тобой</item>
+        <item>Остались ты да я,</item>
+        <item>Любимая, любимая, Бесценная моя.</item>
     </string-array>
-    <string name="author_386"></string>
+    <string name="author_386">Гамзатов Р.</string>
     <string name="name_386">***</string>
     <string name="trans_386">" "</string>
     <string name="form_386">8</string>
@@ -6270,19 +6270,19 @@
 	
 	
 <string-array name="Level_390">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Все тленны мы, дитя,</item>
+        <item>таков вселенной ход.</item>
+        <item>Мы — словно воробей,</item>
+        <item>а смерть, как ястреб, ждет.</item>
+        <item>И рано ль, поздно ли —</item>
+        <item>любой цветок увянет,—</item>
+        <item>Своею теркой смерть</item>
+        <item>всех тварей перетрет.</item>
     </string-array>
-    <string name="author_390"></string>
+    <string name="author_390">Рудаки</string>
     <string name="name_390">***</string>
-    <string name="trans_390">" "</string>
-    <string name="form_390">8</string>
+    <string name="trans_390">"(перевод Левик В.) "</string>
+    <string name="form_390">4</string>
 	
 	
 
