@@ -5786,20 +5786,21 @@
     <string name="trans_360">" "</string>
     <string name="form_360">8</string>
 	
+	
     <string-array name="Level_361">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Ласточки под кровлей черепичной</item>
+        <item>Чуть журчат, стрекочут тополя.</item>
+        <item>Деловито на оси привычной</item>
+        <item>Поворачивается земля.</item>
+        <item>И, покорны медленному кругу,</item>
+        <item>Не спеша, струятся в полусне —</item>
+        <item>Воды к морю, ласточки друг к другу,</item>
+        <item>Сердце к смерти, тополя к луне.</item>
     </string-array>
-    <string name="author_361"></string>
+    <string name="author_361">Кочетков А.</string>
     <string name="name_361">***</string>
     <string name="trans_361">" "</string>
-    <string name="form_361"></string>
+    <string name="form_361">8</string>
 	
 	
     <string-array name="Level_362">
@@ -5835,19 +5836,19 @@
 	
 	
 <string-array name="Level_364">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Гуляю по морю пешком,</item>
+        <item>Стучу о море посошком.</item>
+        <item>Вокруг стихия с трех сторон,</item>
+        <item>А с берега кричат: \"Силён!\"</item>
+        <item>Они завидуют тому,</item>
+        <item>Что я иду и не тону,</item>
+        <item>А я зато на берегу</item>
+        <item>Сидеть, как люди, не могу.</item>
     </string-array>
-    <string name="author_364"></string>
+    <string name="author_364">Аронов А.</string>
     <string name="name_364">***</string>
     <string name="trans_364">" "</string>
-    <string name="form_364"></string>
+    <string name="form_364">8</string>
 	
 	
 <string-array name="Level_365">
@@ -5883,19 +5884,19 @@
 	
 	
 <string-array name="Level_367">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Не забывай</item>
+        <item>На праведном пути</item>
+        <item>То, что старик Марк Твен</item>
+        <item>Сказал когда-то:</item>
+        <item>Ты должен</item>
+        <item>Слово нужное найти,</item>
+        <item>А не его</item>
+        <item>Троюродного брата.</item>
     </string-array>
-    <string name="author_367"></string>
-    <string name="name_367">***</string>
+    <string name="author_367">Гитович А.</string>
+    <string name="name_367">\"Слово\"</string>
     <string name="trans_367">" "</string>
-    <string name="form_367"></string>
+    <string name="form_367">8</string>
 	
 		
 <string-array name="Level_368">
@@ -5915,19 +5916,19 @@
 	
 	
 <string-array name="Level_369">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>На неведомых перронах</item>
+        <item>Выхожу я из вагонов</item>
+        <item>На коротких остановках:</item>
+        <item>Вдруг увижу я тебя!</item>
+        <item>В дальних странах незнакомых</item>
+        <item>На чужих аэродромах</item>
+        <item>Выхожу: вдруг ту увижу,</item>
+        <item>Что похожа на тебя!..</item>
     </string-array>
-    <string name="author_369"></string>
+    <string name="author_369">Гамзатов Р.</string>
     <string name="name_369">***</string>
     <string name="trans_369">" "</string>
-    <string name="form_369"></string>
+    <string name="form_369">8</string>
 	
 	
 <string-array name="Level_370">
@@ -5947,19 +5948,19 @@
 	
 	
 <string-array name="Level_371">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>О, дайте мне кинжал и яд,</item>
+        <item>Мои друзья, мои злодеи!</item>
+        <item>Я понял, понял жизни ад,</item>
+        <item>Мне сердце высосали змеи!..</item>
+        <item>Смотрю на жизнь, как на позор —</item>
+        <item>Пора расстаться с своенравной</item>
+        <item>И произнесть ей приговор</item>
+        <item>Последний, страшный и бесславный!</item>
     </string-array>
-    <string name="author_371"></string>
-    <string name="name_371">***</string>
+    <string name="author_371">Полежаев А.</string>
+    <string name="name_371">\"Отчаяние\"</string>
     <string name="trans_371">" "</string>
-    <string name="form_371"></string>
+    <string name="form_371">8</string>
 	
 	
 <string-array name="Level_372">
@@ -6008,7 +6009,280 @@
     <string name="author_374"></string>
     <string name="name_374">***</string>
     <string name="trans_374">" "</string>
-    <string name="form_374"></string>
+    <string name="form_374">8</string>
+	
+	
+<string-array name="Level_375">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_375"></string>
+    <string name="name_375">***</string>
+    <string name="trans_375">" "</string>
+    <string name="form_375">8</string>
+	
+	
+<string-array name="Level_376">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_376"></string>
+    <string name="name_376">***</string>
+    <string name="trans_376">" "</string>
+    <string name="form_376">8</string>
+	
+	
+<string-array name="Level_377">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_377"></string>
+    <string name="name_377">***</string>
+    <string name="trans_377">" "</string>
+    <string name="form_377">8</string>
+	
+	
+<string-array name="Level_378">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_378"></string>
+    <string name="name_378">***</string>
+    <string name="trans_378">" "</string>
+    <string name="form_378">8</string>
+	
+	
+<string-array name="Level_379">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_379"></string>
+    <string name="name_379">***</string>
+    <string name="trans_379">" "</string>
+    <string name="form_379">8</string>
+	
+	
+<string-array name="Level_380">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_380"></string>
+    <string name="name_380">***</string>
+    <string name="trans_380">" "</string>
+    <string name="form_380">8</string>
+	
+	
+<string-array name="Level_381">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_381"></string>
+    <string name="name_381">***</string>
+    <string name="trans_381">" "</string>
+    <string name="form_381">8</string>
+	
+	
+<string-array name="Level_382">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_382"></string>
+    <string name="name_382">***</string>
+    <string name="trans_382">" "</string>
+    <string name="form_382">8</string>
+	
+	
+	
+<string-array name="Level_382">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_382"></string>
+    <string name="name_382">***</string>
+    <string name="trans_382">" "</string>
+    <string name="form_382">8</string>
+	
+	
+<string-array name="Level_383">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_383"></string>
+    <string name="name_383">***</string>
+    <string name="trans_383">" "</string>
+    <string name="form_383">8</string>
+	
+	
+<string-array name="Level_384">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_384"></string>
+    <string name="name_384">***</string>
+    <string name="trans_384">" "</string>
+    <string name="form_384">8</string>
+	
+	
+<string-array name="Level_385">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_385"></string>
+    <string name="name_385">***</string>
+    <string name="trans_385">" "</string>
+    <string name="form_385">8</string>
+	
+	
+<string-array name="Level_386">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_386"></string>
+    <string name="name_386">***</string>
+    <string name="trans_386">" "</string>
+    <string name="form_386">8</string>
+	
+
+<string-array name="Level_387">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_387"></string>
+    <string name="name_387">***</string>
+    <string name="trans_387">" "</string>
+    <string name="form_387">8</string>
+	
+	
+<string-array name="Level_388">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_388"></string>
+    <string name="name_388">***</string>
+    <string name="trans_388">" "</string>
+    <string name="form_388">8</string>
+	
+	
+<string-array name="Level_389">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_389"></string>
+    <string name="name_389">***</string>
+    <string name="trans_389">" "</string>
+    <string name="form_389">8</string>
+	
+	
+<string-array name="Level_390">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="author_390"></string>
+    <string name="name_390">***</string>
+    <string name="trans_390">" "</string>
+    <string name="form_390">8</string>
 	
 	
 
