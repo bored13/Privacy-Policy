@@ -5980,19 +5980,19 @@
 	
 	
 <string-array name="Level_373">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Звенел топор, потом пила.</item>
+        <item>Потом — последнее усилье.</item>
+        <item>Береза медленно пошла,</item>
+        <item>Нас осыпая снежной пылью.</item>
+        <item>Спилили дерево не зря,—</item>
+        <item>Над полотном, у края леса,</item>
+        <item>Тугие ветры декабря</item>
+        <item>Могли свалить его на рельсы.</item>
     </string-array>
-    <string name="author_373"></string>
-    <string name="name_373">***</string>
+    <string name="author_373">Жигулин А.</string>
+    <string name="name_373">\"Береза\"</string>
     <string name="trans_373">" "</string>
-    <string name="form_373"></string>
+    <string name="form_373">8</string>
 	
 	
 	
@@ -6013,16 +6013,16 @@
 	
 	
 <string-array name="Level_375">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Вот опять я встретился с тобою,</item>
+        <item>Городской — с тобою, полевой,</item>
+        <item>Словно василькового тропою</item>
+        <item>Пробежал трамвай по мостовой.</item>
+        <item>Ах, какая благостная доля —</item>
+        <item>Лишь одной походкой воскрешать!</item>
+        <item>Ты идешь — и запахами поля</item>
+        <item>Тротуары начали дышать.</item>
     </string-array>
-    <string name="author_375"></string>
+    <string name="author_375">Казин В.</string>
     <string name="name_375">***</string>
     <string name="trans_375">" "</string>
     <string name="form_375">8</string>
@@ -6045,16 +6045,16 @@
 	
 	
 <string-array name="Level_377">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Кого-то нет, кого-то нет…</item>
+        <item>В одной квартире старой</item>
+        <item>Висит гитара давних лет,</item>
+        <item>Умолкшая гитара.</item>
+        <item>Ее владельца ожидать</item>
+        <item>Нелепо, бесполезно,-</item>
+        <item>Унесена его кровать</item>
+        <item>К соседям безвозмездно.</item>
     </string-array>
-    <string name="author_377"></string>
+    <string name="author_377">Шефнер В.</string>
     <string name="name_377">***</string>
     <string name="trans_377">" "</string>
     <string name="form_377">8</string>
@@ -6093,16 +6093,16 @@
 	
 	
 <string-array name="Level_380">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Говорят, мы мелко пашем,</item>
+        <item>Оступаясь и скользя.</item>
+        <item>На природной почве нашей</item>
+        <item>Глубже и пахать нельзя.</item>
+        <item>Мы ведь пашем на погосте,</item>
+        <item>Разрыхляем верхний слой.</item>
+        <item>Мы задеть боимся кости,</item>
+        <item>Чуть прикрытые землей.</item>
     </string-array>
-    <string name="author_380"></string>
+    <string name="author_380">Шаламов В.</string>
     <string name="name_380">***</string>
     <string name="trans_380">" "</string>
     <string name="form_380">8</string>
@@ -6125,16 +6125,16 @@
 	
 	
 <string-array name="Level_382">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Надо мной любовь нависла тучей,</item>
+        <item>Помрачила дни,</item>
+        <item>Нежностью своей меня не мучай,</item>
+        <item>Лаской не томи.</item>
+        <item>Уходи, пускай слеза мешает</item>
+        <item>Поглядеть вослед.</item>
+        <item>Уходи, пускай душа не знает,</item>
+        <item>Был ты или нет.</item>
     </string-array>
-    <string name="author_382"></string>
+    <string name="author_382">Инбер В.</string>
     <string name="name_382">***</string>
     <string name="trans_382">" "</string>
     <string name="form_382">8</string>
@@ -6158,16 +6158,16 @@
 	
 	
 <string-array name="Level_383">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>… А вам не хочется обнять,</item>
+        <item>Как глобус, землю эту?</item>
+        <item>И, как ребенка, покачать</item>
+        <item>Уставшую планету?</item>
+        <item>Седые головы вершин</item>
+        <item>Своей рукой погладить?</item>
+        <item>В низинах складочки морщин</item>
+        <item>Расправить и разгладить?</item>
     </string-array>
-    <string name="author_383"></string>
+    <string name="author_383">Горская А.</string>
     <string name="name_383">***</string>
     <string name="trans_383">" "</string>
     <string name="form_383">8</string>
@@ -6190,16 +6190,16 @@
 	
 	
 <string-array name="Level_385">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Ты ищешь свое отраженье</item>
+        <item>В моих напряженных глазах,</item>
+        <item>Но только любовь — не спасенье,</item>
+        <item>А лишь отпущенье в грехах.</item>
+        <item>Но только любовь — не удача,</item>
+        <item>Назначенный свыше просвет,</item>
+        <item>А просто цепочка чудачеств,</item>
+        <item>И в них не укрыться от бед.</item>
     </string-array>
-    <string name="author_385"></string>
+    <string name="author_385">Делоне В.</string>
     <string name="name_385">***</string>
     <string name="trans_385">" "</string>
     <string name="form_385">8</string>
@@ -6222,49 +6222,49 @@
 	
 
 <string-array name="Level_387">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Коль можешь, не тужи</item>
+        <item>о времени бегущем,</item>
+        <item>Не отягчай души</item>
+        <item>ни прошлым, ни грядущим.</item>
+        <item>Сокровища свои потрать,</item>
+        <item>пока ты жив;</item>
+        <item>Ведь все равно</item>
+        <item>в тот мир предстанешь неимущим.</item>
     </string-array>
-    <string name="author_387"></string>
+    <string name="author_387">Омар Хайям</string>
     <string name="name_387">***</string>
-    <string name="trans_387">" "</string>
-    <string name="form_387">8</string>
+    <string name="trans_387">пер. Владимир Державин</string>
+    <string name="form_387">4</string>
 	
 	
 <string-array name="Level_388">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Слушай, поганое сердце,</item>
+        <item>Сердце собачье мое.</item>
+        <item>Я на тебя, как на вора,</item>
+        <item>Спрятал в руках лезвие.</item>
+        <item>Рано ли, поздно всажу я</item>
+        <item>В ребра холодную сталь.</item>
+        <item>Нет, не могу я стремиться</item>
+        <item>В вечную сгнившую даль.</item>
     </string-array>
-    <string name="author_388"></string>
+    <string name="author_388">Есенин С.</string>
     <string name="name_388">***</string>
     <string name="trans_388">" "</string>
     <string name="form_388">8</string>
 	
 	
 <string-array name="Level_389">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Ты нам во славу и в позор,</item>
+        <item>Сергей Есенин.</item>
+        <item>Не по добру твой грустен взор</item>
+        <item>в пиру осеннем.</item>
+        <item>Ты подменил простор земной</item>
+        <item>родной халупой;</item>
+        <item>не то беда, что ты хмельной,</item>
+        <item>а то, что глупый.</item>
     </string-array>
-    <string name="author_389"></string>
-    <string name="name_389">***</string>
+    <string name="author_389">Чичибабин Б.</string>
+    <string name="name_389">Сергею Есенину</string>
     <string name="trans_389">" "</string>
     <string name="form_389">8</string>
 	
