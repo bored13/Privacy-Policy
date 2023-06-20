@@ -5495,7 +5495,7 @@
 	</string-array>
 	<string name="author_342">Омар Хайям</string>
 	<string name="name_342">***</string>
-	<string name="trans_342">" "</string>
+	<string name="trans_342">"(пер. Плисецкий Г.)"</string>
 	<string name="form_342">4</string>
 	
 	
@@ -5804,19 +5804,19 @@
 	
 	
     <string-array name="Level_362">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Не бойся: я — простая кость;</item>
+        <item>Не думай о душе угасшей.</item>
+        <item>Живых голов ни дурь, ни злость</item>
+        <item>Не изойдут из этой чаши.</item>
+        <item>Я жил, как ты, любил и пил.</item>
+        <item>Теперь я мертв — налей полнее!</item>
+        <item>Не гадок мне твой пьяный пыл,</item>
+        <item>Уста червя куда сквернее.</item>
     </string-array>
-    <string name="author_362"></string>
-    <string name="name_362">***</string>
-    <string name="trans_362">" "</string>
-    <string name="form_362"></string>
+    <string name="author_362">Байрон Дж.</string>
+    <string name="name_362">«Надпись на чаше из черепа»</string>
+    <string name="trans_362">"(Перевод Шифферс Л.)"</string>
+    <string name="form_362">8</string>
 	
 	
 <string-array name="Level_363">
@@ -5852,19 +5852,19 @@
 	
 	
 <string-array name="Level_365">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Как ни прекрасен — полон мук</item>
+        <item>Сон этой жизни краткой;</item>
+        <item>Измучил он меня своей</item>
+        <item>Жестокой лихорадкой.</item>
+        <item>Открой мне, боже, край теней;</item>
+        <item>Я там, под твоею сенью,</item>
+        <item>Прильну к прохладному ключу,</item>
+        <item>Дарящему забвенье.</item>
     </string-array>
-    <string name="author_365"></string>
+    <string name="author_365">Гейне Г.</string>
     <string name="name_365">***</string>
-    <string name="trans_365">" "</string>
-    <string name="form_365"></string>
+    <string name="trans_365">"(Перевод Румер О.)"</string>
+    <string name="form_365">8</string>
 	
 	
 <string-array name="Level_366">
@@ -6109,18 +6109,18 @@
 	
 	
 <string-array name="Level_381">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Забыть тебя! Забыть тебя!</item>
+        <item>Пусть в огненном потоке лет</item>
+        <item>Позор преследует тебя,</item>
+        <item>Томит раскаяния бред!</item>
+        <item>И мне и мужу своему</item>
+        <item>Ты будешь памятна вдвойне:</item>
+        <item>Была ты неверна ему,</item>
+        <item>И демоном была ты мне.</item>
     </string-array>
-    <string name="author_381"></string>
+    <string name="author_381">Байрон Дж.</string>
     <string name="name_381">***</string>
-    <string name="trans_381">" "</string>
+    <string name="trans_381">"(Перевод Иванов В.)"</string>
     <string name="form_381">8</string>
 	
 	
