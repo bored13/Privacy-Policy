@@ -1,0 +1,2 @@
+TypefaceSpan typefaceSpan = new TypefaceSpan("sans-serif-medium");
+textView.setSpan(typefaceSpan, indexStart, textLength, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
